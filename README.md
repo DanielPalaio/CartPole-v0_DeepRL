@@ -23,7 +23,7 @@ Episode length is greater than 200
   
 # Deep Reinforcement Learning framework
 <p align="center">
-![DRL](https://user-images.githubusercontent.com/79323290/109228274-817c6380-77b9-11eb-9e33-ddf9d8813521.png)
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/79323290/109228274-817c6380-77b9-11eb-9e33-ddf9d8813521.png">
 </p>
 
 # Deep Q-Network (DQN)
