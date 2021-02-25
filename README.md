@@ -26,7 +26,27 @@ Episode length is greater than 200
   <img width="500" height="250" src="https://user-images.githubusercontent.com/79323290/109228274-817c6380-77b9-11eb-9e33-ddf9d8813521.png">
 </p>
 
-# Deep Q-Network (DQN) framework
+# Deep Q-Network (DQN)
 <p align="center">
   <img width="700" height="500" src="https://user-images.githubusercontent.com/79323290/109228829-56deda80-77ba-11eb-8d3c-59e2669c5ebe.png">
 </p>
+
+
+
+Trained on a NVIDIA GeForce MX 250
+
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
+num_episodes=400
+lr=0.001
+discount_factor=0.99
+num_actions=2
+epsilon=1.0
+batch_size=64
+input_dim=4
+update_rate=100
+
+Test - 'saved_networks/dqn_model10'
