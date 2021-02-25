@@ -10,24 +10,24 @@ Interpreter | Python 3.8
 Python Environment | Anaconda
 Packages | requirements.txt
 
-To setup Pycharm + Anaconda + GPU, consult the setup file [here](setup.txt)
+**To setup Pycharm + Anaconda + GPU, consult the setup file [here](setup.txt)**
 
 
 # OpenAI CartPole-v0
-Actions:<br />
+**Actions:**<br />
 0 - Push cart to the left    
 1 - Push cart to the right
 
-States:<br />
+**States:**<br />
 0 - Cart position  
 1 - Cart velocity  
 2 - Pole angle  
 3 - Pole velocity at tip
 
-Rewards:<br />
+**Rewards:**<br />
 Scalar value (1) for every step taken
 
-Episode termination:<br />
+**Episode termination:**<br />
 Pole angle is more than ±12°  
 Cart position is more than ±2.4 (center of the cart reaches the edge of the display)  
 Episode length is greater than 200  
