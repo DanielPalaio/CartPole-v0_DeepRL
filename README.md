@@ -1,6 +1,17 @@
 # OpenAI CartPole-v0 DeepRL-based solutions
 Using Deep Q-Network (DQN), Dueling DQN, and Dueling Double DQN (D3QN)
 
+# Software/Requirements
+Python IDE | Pycharm
+------------- | -------------
+Deep Learning library | Tensorflow + Keras
+GPU | GeForce MX 250
+Interpreter | Python 3.8
+Python Environment | Anaconda
+Packages | requirements.txt
+
+To setup Pycharm + Anaconda + GPU
+
 
 # OpenAI CartPole-v0
 Actions:<br />
