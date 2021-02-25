@@ -3,10 +3,10 @@
 
 # OpenAI CartPole-v0:
 Actions:<br />
-0 - Push cart to the left<br />   
+0 - Push cart to the left    
 1 - Push cart to the right
 
-States:
+States:  
   Type: Box(4)                    Min         Max
   0 - Cart position               -2.4        2.4
   1 - Cart velocity               -Inf        Inf
