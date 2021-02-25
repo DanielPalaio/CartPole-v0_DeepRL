@@ -10,7 +10,7 @@ Interpreter | Python 3.8
 Python Environment | Anaconda
 Packages | requirements.txt
 
-To setup Pycharm + Anaconda + GPU
+To setup Pycharm + Anaconda + GPU, consult the setup file [here](setup.txt)
 
 
 # OpenAI CartPole-v0
