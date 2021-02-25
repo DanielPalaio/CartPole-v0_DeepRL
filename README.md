@@ -2,9 +2,9 @@
 
 # OpenAI CartPole-v0:
 Actions:
-  Type: Discrete(2)
-  0 - Push cart to the left
-  1 - Push cart to the right
+
+  0 - Push cart to the left     1 - Push cart to the right
+
 States:
   Type: Box(4)                    Min         Max
   0 - Cart position               -2.4        2.4
