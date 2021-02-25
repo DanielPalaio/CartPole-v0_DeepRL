@@ -1,9 +1,14 @@
 # OpenAI CartPole-v0 DeepRL-based solutions, using Deep Q-Network (DQN), Dueling DQN, and Dueling Double DQN (D3QN)
 
-# OpenAI CartPole-v0:
-Actions:
+The action of every agent <br />
+  into the world <br />
+starts <br />
+  from their physical selves. <br />
 
-  0 - Push cart to the left     1 - Push cart to the right
+# OpenAI CartPole-v0:
+Actions: <br />
+  0 - Push cart to the left <br />   
+  1 - Push cart to the right <br />
 
 States:
   Type: Box(4)                    Min         Max
