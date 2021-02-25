@@ -23,7 +23,7 @@ Episode length is greater than 200
   
 # Deep Reinforcement Learning framework
 <p align="center">
-  <img src="DRL_OpenAI_CartPole-v0/images/DRL.png" width="350" title="DRL framework">
+  <img src="DanielPalaio/DRL_OpenAI-CartPole-v0/images/DRL.png" width="350" title="DRL framework">
 </p>
 
 
