@@ -12,11 +12,12 @@ States:<br />
 2 - Pole angle  
 3 - Pole velocity at tip
 
-Rewards:
+Rewards:<br />
 Scalar value (1) for every step taken
-Episode termination:
-  Pole angle is more than ±12°
-  Cart position is more than ±2.4 (center of the cart reaches the edge of the display)
-  Episode length is greater than 200
+
+Episode termination:<br />
+Pole angle is more than ±12°  
+Cart position is more than ±2.4 (center of the cart reaches the edge of the display)  
+Episode length is greater than 200  
   
 # Deep Q-Network (DQN)
