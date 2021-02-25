@@ -35,12 +35,12 @@ Episode length is greater than 200
   
 # Deep Reinforcement Learning framework
 <p align="center">
-  <img width="500" height="250" src="https://user-images.githubusercontent.com/79323290/109228274-817c6380-77b9-11eb-9e33-ddf9d8813521.png">
+  <img width="500" height="225" src="https://user-images.githubusercontent.com/79323290/109228274-817c6380-77b9-11eb-9e33-ddf9d8813521.png">
 </p>
 
 # Deep Q-Network (DQN)
 <p align="center">
-  <img width="700" height="500" src="https://user-images.githubusercontent.com/79323290/109228829-56deda80-77ba-11eb-8d3c-59e2669c5ebe.png">
+  <img width="850" height="550" src="https://user-images.githubusercontent.com/79323290/109228829-56deda80-77ba-11eb-8d3c-59e2669c5ebe.png">
 </p>
 
 
