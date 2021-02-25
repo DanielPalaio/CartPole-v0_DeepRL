@@ -6,14 +6,14 @@ Actions:<br />
 0 - Push cart to the left    
 1 - Push cart to the right
 
-States:  
-  Type: Box(4)                    Min         Max
-  0 - Cart position               -2.4        2.4
-  1 - Cart velocity               -Inf        Inf
-  2 - Pole angle                  -41.8º      41.8º
-  3 - Pole velocity at tip        -Inf        Inf
+States:<br />
+0 - Cart position  
+1 - Cart velocity  
+2 - Pole angle  
+3 - Pole velocity at tip
+
 Rewards:
-  1 for every step taken
+Scalar value (1) for every step taken
 Episode termination:
   Pole angle is more than ±12°
   Cart position is more than ±2.4 (center of the cart reaches the edge of the display)
