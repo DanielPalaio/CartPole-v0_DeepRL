@@ -22,9 +22,7 @@ Cart position is more than ±2.4 (center of the cart reaches the edge of the dis
 Episode length is greater than 200  
   
 # Deep Reinforcement Learning framework
-<p align="center">
-  <img src="DanielPalaio/DRL_OpenAI-CartPole-v0/images/DRL.png" width="350" title="DRL framework">
-</p>
+![DRL](https://user-images.githubusercontent.com/79323290/109228274-817c6380-77b9-11eb-9e33-ddf9d8813521.png)
 
 
 # Deep Q-Network (DQN)
