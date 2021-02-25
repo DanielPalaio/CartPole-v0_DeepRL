@@ -1,4 +1,5 @@
-# OpenAI CartPole-v0 DeepRL-based solutions, using Deep Q-Network (DQN), Dueling DQN, and Dueling Double DQN (D3QN)
+# OpenAI CartPole-v0 DeepRL-based solutions
+# Deep Q-Network (DQN), Dueling DQN, and Dueling Double DQN (D3QN)
 
 
 # OpenAI CartPole-v0:
