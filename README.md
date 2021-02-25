@@ -11,7 +11,8 @@ Python Environment | Anaconda
 Packages | requirements.txt
 
 **To setup Pycharm + Anaconda + GPU, consult the setup file [here](setup.txt)**  
-**To import the required packages, [requirements.txt](DQN/requirements.txt), type the following instruction in the project environment terminal:**
+**To import the required packages, [requirements.txt](DQN/requirements.txt), type the following instruction in the project environment terminal, using pip command:**  
+> pip install -r requirements.txt
 
 # OpenAI CartPole-v0
 **Actions:**<br />
@@ -55,7 +56,7 @@ num_episodes=400
 lr=0.001
 discount_factor=0.99
 
-> **WARNING**: Be careful, or else!  
+> :warning: **WARNING** :warning:  
 num_actions=2
 epsilon=1.0
 batch_size=64
