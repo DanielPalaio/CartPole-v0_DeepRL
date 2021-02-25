@@ -1,9 +1,5 @@
 # OpenAI CartPole-v0 DeepRL-based solutions, using Deep Q-Network (DQN), Dueling DQN, and Dueling Double DQN (D3QN)
 
-The action of every agent <br />
-  into the world <br />
-starts <br />
-  from their physical selves. <br />
 
 # OpenAI CartPole-v0:
 Actions: <br />
