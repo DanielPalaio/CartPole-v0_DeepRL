@@ -54,6 +54,8 @@ Content Cell  | Content Cell
 num_episodes=400
 lr=0.001
 discount_factor=0.99
+
+> **WARNING**: Be careful, or else!  
 num_actions=2
 epsilon=1.0
 batch_size=64
