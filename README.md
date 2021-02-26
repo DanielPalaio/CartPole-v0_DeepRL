@@ -129,6 +129,9 @@ Average reward of 195.0 over 100 consecutive trials
 > **Network model used for testing:** 'saved_networks/duelingdqn_model20' (tf model, also available in .h5 file)  
 
 # Dueling Double DQN (D3QN)
+<p align="center">
+  <img width="950" height="550" src="https://user-images.githubusercontent.com/79323290/109341832-dcb66080-7862-11eb-8bee-f7a0398ac31b.png">
+</p>
 
 <table>
 <tr><th> Train </th><th> Test </th></tr>
