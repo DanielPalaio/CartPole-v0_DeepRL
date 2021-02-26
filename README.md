@@ -94,11 +94,11 @@ Average reward of 195.0 over 100 consecutive trials
 | Parameter | Value |
 |--|--|
 | Number of episodes | 400 |
-| Learning rate  | 0.001 |
+| Learning rate  | 0.00075 |
 | Discount Factor | 0.99 |
 | Epsilon | 1.0 |
 | Batch size | 64 |
-| TargetNet update rate (steps) | 100 |
+| TargetNet update rate (steps) | 120 |
 | Actions (CartPole-v0 env) | 2 |
 | States (CartPole-v0 env) | 4 |
 
@@ -130,11 +130,11 @@ Average reward of 195.0 over 100 consecutive trials
 | Parameter | Value |
 |--|--|
 | Number of episodes | 400 |
-| Learning rate  | 0.001 |
+| Learning rate  | 0.00075 |
 | Discount Factor | 0.99 |
 | Epsilon | 1.0 |
 | Batch size | 64 |
-| TargetNet update rate (steps) | 100 |
+| TargetNet update rate (steps) | 120 |
 | Actions (CartPole-v0 env) | 2 |
 | States (CartPole-v0 env) | 4 |
 
