@@ -2,8 +2,9 @@
 Using Deep Q-Network (DQN), Dueling DQN, and Dueling Double DQN (D3QN)
 
 # Software/Requirements
-Python IDE | Pycharm
+Modules | Software/Hardware
 ------------- | -------------
+Python IDE | Pycharm
 Deep Learning library | Tensorflow + Keras
 GPU | GeForce MX 250
 Interpreter | Python 3.8
@@ -11,7 +12,7 @@ Python Environment | Anaconda
 Packages | requirements.txt
 
 **To setup Pycharm + Anaconda + GPU, consult the setup file [here](setup.txt)**  
-**To import the required packages, [requirements.txt](DQN/requirements.txt), type the following instruction in the project environment terminal, using pip command:**  
+**To import the required packages, [requirements.txt](DQN/requirements.txt), type the following instruction in the project environment terminal:**  
 > pip install -r requirements.txt
 
 # OpenAI CartPole-v0
@@ -43,24 +44,27 @@ Episode length is greater than 200
   <img width="850" height="550" src="https://user-images.githubusercontent.com/79323290/109228829-56deda80-77ba-11eb-8d3c-59e2669c5ebe.png">
 </p>
 
-
-
-Trained on a NVIDIA GeForce MX 250
-
-First Header  | Second Header
+Train Parameters | Parameter Value
 ------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+Number of episodes | 400
+Learning rate  | 0.001
+Discount Factor | 0.99
+Epsilon | 1.0
+Batch size | 64
+TargetNet update rate (steps) | 100
+Actions (CartPole-v0 env) | 2
+States (CartPole-v0 env) | 4
 
-num_episodes=400
-lr=0.001
-discount_factor=0.99
+Test Parameters | Parameter Value
+------------- | -------------
+Number of episodes | 100
+Epsilon | 0.01
+Actions (CartPole-v0 env) | 2
+States (CartPole-v0 env) | 4
+
+> **Network model used for testing:** 'saved_networks/dqn_model10' (tf model, also available in .h5 file)  
 
 > :warning: **WARNING** :warning:  
-num_actions=2
-epsilon=1.0
-batch_size=64
-input_dim=4
-update_rate=100
+
 
 Test - 'saved_networks/dqn_model10'
