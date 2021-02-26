@@ -72,4 +72,8 @@ Episode length is greater than 200
 
 </td></tr> </table>
 
+<p align="center">
+  <img width="700" height="350" src="https://user-images.githubusercontent.com/79323290/109236713-12f2d200-77c8-11eb-8564-05f25ee5f373.png">
+</p>
+
 > **Network model used for testing:** 'saved_networks/dqn_model10' (tf model, also available in .h5 file)  
