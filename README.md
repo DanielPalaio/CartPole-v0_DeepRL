@@ -15,6 +15,8 @@ Packages | requirements.txt
 **To import the required packages, [requirements.txt](DQN/requirements.txt), type the following instruction in the project environment terminal:**  
 > pip install -r requirements.txt
 
+# :warning: **WARNING** :warning:  
+
 # OpenAI CartPole-v0
 **Actions:**<br />
 0 - Push cart to the left    
@@ -48,8 +50,9 @@ Episode length is greater than 200
 <tr><th> Train </th><th> Test </th></tr>
 <tr><td>
 
-| Number of episodes | 400 |
+| Parameter | Value |
 |--|--|
+| Number of episodes | 400 |
 | Learning rate  | 0.001 |
 | Discount Factor | 0.99 |
 | Epsilon | 1.0 |
@@ -60,8 +63,9 @@ Episode length is greater than 200
 
 </td><td>
 
-| Number of episodes | 100 |
+| Parameter | Value |
 |--|--|
+| Number of episodes | 100 |
 | Epsilon | 0.01 |
 | Actions (CartPole-v0 env) | 2 |
 | States (CartPole-v0 env) | 4 |
@@ -69,8 +73,3 @@ Episode length is greater than 200
 </td></tr> </table>
 
 > **Network model used for testing:** 'saved_networks/dqn_model10' (tf model, also available in .h5 file)  
-
-> :warning: **WARNING** :warning:  
-
-
-Test - 'saved_networks/dqn_model10'
