@@ -74,7 +74,8 @@ Average reward of 195.0 over 100 consecutive trials
 </td></tr> </table>
 
 <p align="center">
-  <img width="700" height="250" src="https://user-images.githubusercontent.com/79323290/109237041-c22fa900-77c8-11eb-814b-beccd64eb32a.png">
+  <img src="DQN/CartPole_Train.png" width="400" height="250" />
+  <img src="DQN/CartPole_Test.png" width="400" height="250"/>
 </p>
 
 <p align="center">
