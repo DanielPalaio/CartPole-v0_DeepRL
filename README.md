@@ -79,7 +79,8 @@ Average reward of 195.0 over 100 consecutive trials
   <img width="700" height="250" src="https://user-images.githubusercontent.com/79323290/109237041-c22fa900-77c8-11eb-814b-beccd64eb32a.png">
 </p>
 
-![CartPole-v0 after training](https://user-images.githubusercontent.com/79323290/109238403-631f6380-77cb-11eb-9428-2e924dfbf532.gif)
-
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/79323290/109238403-631f6380-77cb-11eb-9428-2e924dfbf532.gif" width="500" />
+</p>
 
 > **Network model used for testing:** 'saved_networks/dqn_model10' (tf model, also available in .h5 file)  
