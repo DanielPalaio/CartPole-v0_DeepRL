@@ -118,6 +118,10 @@ Average reward of 195.0 over 100 consecutive trials
   <img src="DuelingDQN/CartPole_Test.png" width="400" height="250"/>
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/79323290/109310276-38b9be80-783c-11eb-86a4-c3de0a222112.gif" width="400" height="250" />
+</p>
+
 > **Network model used for testing:** 'saved_networks/duelingdqn_model20' (tf model, also available in .h5 file)  
 
 # Dueling Double DQN (D3QN)
@@ -152,6 +156,10 @@ Average reward of 195.0 over 100 consecutive trials
 <p align="center">
   <img src="D3QN/CartPole_Train.png" width="400" height="250" />
   <img src="D3QN/CartPole_Test.png" width="400" height="250"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/79323290/109310287-3c4d4580-783c-11eb-84e5-75cc45f582f6.gif" width="400" height="250" />
 </p>
 
 > **Network model used for testing:** 'saved_networks/d3qn_model10' (tf model, also available in .h5 file)  
