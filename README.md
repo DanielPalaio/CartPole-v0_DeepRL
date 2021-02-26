@@ -79,7 +79,7 @@ Average reward of 195.0 over 100 consecutive trials
   <img width="700" height="250" src="https://user-images.githubusercontent.com/79323290/109237041-c22fa900-77c8-11eb-814b-beccd64eb32a.png">
 </p>
 
-<p float="left">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/79323290/109239128-ab8b5100-77cc-11eb-9294-d8f2703afeb8.gif" width="400" height="250" />
   <img src="https://user-images.githubusercontent.com/79323290/109238403-631f6380-77cb-11eb-9428-2e924dfbf532.gif" width="400" height="250"/>
 </p>
