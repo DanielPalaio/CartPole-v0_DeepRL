@@ -35,7 +35,10 @@ Scalar value (1) for every step taken
 Pole angle is more than ±12°  
 Cart position is more than ±2.4 (center of the cart reaches the edge of the display)  
 Episode length is greater than 200  
-  
+
+**Solved Requirement:**<br />
+CartPole-v0 defines "solving" as getting average reward of 195.0 over 100 consecutive trials.
+
 # Deep Reinforcement Learning framework
 <p align="center">
   <img width="500" height="225" src="https://user-images.githubusercontent.com/79323290/109228274-817c6380-77b9-11eb-9e33-ddf9d8813521.png">
