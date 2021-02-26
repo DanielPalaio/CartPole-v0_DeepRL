@@ -2,7 +2,7 @@
 Using Deep Q-Network (DQN), Dueling DQN, and Dueling Double DQN (D3QN)
 
 # Software/Requirements
-Modules | Software/Hardware
+Module | Software/Hardware
 ------------- | -------------
 Python IDE | Pycharm
 Deep Learning library | Tensorflow + Keras
