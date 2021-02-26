@@ -18,7 +18,7 @@ Packages | requirements.txt
 # :warning: **WARNING** :warning:  
 The training generates a [.txt file](DQN/saved_networks.txt) that tracks the saves of the network models, in tf anf h5, that achieve the solved requirement of the environment. Besides that, an overview image (graph) of the training procedure is generated. Keep in mind that if you perform the training and don't change the directory and file names of prior trainings, they will get overwritten.  
 
-Regarding testing, if you choose to load the .h5 model, a 5 episode training is done to initialize/build the keras.model network. Thus, the warnings above mentioned is also applied to this situation. Loading the saved model in tf is the recomended option.
+Regarding testing, if you choose to load the .h5 model, a 5 episode training is done to initialize/build the keras.model network. Thus, the warnings above mentioned are also appliable to this situation. Loading the saved model in tf is the recomended option. After finishing the testing, an overview image (graph) of the training procedure is also generated.
 
 # OpenAI CartPole-v0
 **Actions:**<br />
