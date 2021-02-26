@@ -130,7 +130,7 @@ Average reward of 195.0 over 100 consecutive trials
 
 # Dueling Double DQN (D3QN)
 <p align="center">
-  <img width="950" height="550" src="https://user-images.githubusercontent.com/79323290/109341832-dcb66080-7862-11eb-8bee-f7a0398ac31b.png">
+  <img width="950" height="550" src="https://user-images.githubusercontent.com/79323290/109341984-1e470b80-7863-11eb-9c5b-33a967d6bdd9.png">
 </p>
 
 <table>
