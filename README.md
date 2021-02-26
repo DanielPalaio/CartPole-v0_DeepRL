@@ -114,8 +114,8 @@ Average reward of 195.0 over 100 consecutive trials
 </td></tr> </table>
 
 <p align="center">
-  <img src="Dueling_DQN/CartPole_Train.png" width="400" height="250" />
-  <img src="Dueling_DQN/CartPole_Test.png" width="400" height="250"/>
+  <img src="DuelingDQN/CartPole_Train.png" width="400" height="250" />
+  <img src="DuelingDQN/CartPole_Test.png" width="400" height="250"/>
 </p>
 
 > **Network model used for testing:** 'saved_networks/duelingdqn_model20' (tf model, also available in .h5 file)  
