@@ -37,7 +37,7 @@ Cart position is more than ±2.4 (center of the cart reaches the edge of the dis
 Episode length is greater than 200  
 
 **Solved Requirement:**<br />
-CartPole-v0 defines "solving" as getting average reward of 195.0 over 100 consecutive trials.
+Average reward of 195.0 over 100 consecutive trials
 
 # Deep Reinforcement Learning framework
 <p align="center">
