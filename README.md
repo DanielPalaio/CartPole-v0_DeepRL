@@ -44,7 +44,7 @@ Average reward of 195.0 over 100 consecutive trials
 
 # Deep Q-Network (DQN)
 <p align="center">
-  <img width="950" height="550" src="https://user-images.githubusercontent.com/79323290/109324455-981fca80-784c-11eb-9c8f-f4bff1209524.png">
+  <img width="950" height="550" src="https://user-images.githubusercontent.com/79323290/109340337-cb6c5480-7860-11eb-9411-42b8e0d5941d.png">
 </p>
 
 <table>
@@ -87,7 +87,7 @@ Average reward of 195.0 over 100 consecutive trials
 
 # Dueling DQN
 <p align="center">
-  <img width="950" height="550" src="https://user-images.githubusercontent.com/79323290/109328608-8c82d280-7851-11eb-909b-8aeaa5dd08f8.png">
+  <img width="950" height="550" src="https://user-images.githubusercontent.com/79323290/109340340-cc9d8180-7860-11eb-9011-1ea05ef7fc75.png">
 </p>
 
 <table>
