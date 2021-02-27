@@ -16,9 +16,9 @@ Packages | requirements.txt
 > pip install -r requirements.txt
 
 # :warning: **WARNING** :warning:  
-The training generates a [.txt file](DQN/saved_networks.txt) that tracks the saves of the network models, in tf anf h5, that achieve the solved requirement of the environment. Besides that, an overview image (graph) of the training procedure is generated. Keep in mind that if you perform the training and don't change the directory and file names of prior trainings, they will get overwritten.  
+The training generates a [.txt file](DQN/saved_networks.txt) that tracks the saves of the network models, in 'tf' anf .h5, that achieve the solved requirements of the environment. Additionally, an overview image (graph) of the training procedure is generated. Keep in mind that to perform the training process, the .txt, .png, and directory names must be change. Otherwise, information of previous trainings  will get overwritten, and lost.  
 
-Regarding testing, if you choose to load the .h5 model, a 5 episode training is done to initialize/build the keras.model network. Thus, the warnings above mentioned are also appliable to this situation. Loading the saved model in tf is the recomended option. After finishing the testing, an overview image (graph) of the training procedure is also generated.
+Regarding testing, if you choose to load the .h5 model, a 5 episode training is done to initialize/build the keras.model network. Thus, the warnings above mentioned are also appliable to this situation. Loading the saved model in 'tf' is the recommended option. After finishing the testing, an overview image (graph) of the training procedure is also generated.
 
 # OpenAI CartPole-v0
 **Actions:**<br />
@@ -83,7 +83,7 @@ Average reward of 195.0 over 100 consecutive trials
   <img src="https://user-images.githubusercontent.com/79323290/109238403-631f6380-77cb-11eb-9428-2e924dfbf532.gif" width="400" height="250"/>
 </p>
 
-> **Network model used for testing:** 'saved_networks/dqn_model10' (tf model, also available in .h5 file)  
+> **Network model used for testing:** 'saved_networks/dqn_model10' ('tf' model, also available in .h5)  
 
 # Dueling DQN
 <p align="center">
@@ -126,7 +126,7 @@ Average reward of 195.0 over 100 consecutive trials
   <img src="https://user-images.githubusercontent.com/79323290/109310670-bed60500-783c-11eb-8b33-f9d2024fed0a.gif" width="400" height="250" />
 </p>
 
-> **Network model used for testing:** 'saved_networks/duelingdqn_model20' (tf model, also available in .h5 file)  
+> **Network model used for testing:** 'saved_networks/duelingdqn_model20' ('tf' model, also available in .h5)  
 
 # Dueling Double DQN (D3QN)
 <p align="center">
@@ -169,4 +169,4 @@ Average reward of 195.0 over 100 consecutive trials
   <img src="https://user-images.githubusercontent.com/79323290/109311042-31df7b80-783d-11eb-9d45-c8bea3401b0c.gif" width="400" height="250" />
 </p>
 
-> **Network model used for testing:** 'saved_networks/d3qn_model10' (tf model, also available in .h5 file)  
+> **Network model used for testing:** 'saved_networks/d3qn_model10' ('tf' model, also available in .h5)  
