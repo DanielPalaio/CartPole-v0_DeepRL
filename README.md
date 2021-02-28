@@ -38,17 +38,17 @@ Loading the saved model in 'tf' is the recommended option. After finishing the t
 **Rewards:**<br />
 Scalar value (1) for every step taken
 
-**Episode termination:**<br />
-Pole angle is more than ±12°  
-Cart position is more than ±2.4 (center of the cart reaches the edge of the display)  
-Episode length is greater than 200  
+**Episode termination:**<br />  
+12° < Pole angle (State 2) < -12°  
+2.4 < Cart position (State 0) < -2.4  
+Episode length > 200  
 
 **Solved Requirement:**<br />
 Average reward of 195.0 over 100 consecutive trials
 
 # Deep Q-Network (DQN)
 <p align="center">
-  <img width="950" height="500" src="https://user-images.githubusercontent.com/79323290/109340337-cb6c5480-7860-11eb-9411-42b8e0d5941d.png">
+  <img width="804" height="415" src="https://user-images.githubusercontent.com/79323290/109340337-cb6c5480-7860-11eb-9411-42b8e0d5941d.png">
 </p>
 
 <table>
@@ -91,7 +91,7 @@ Average reward of 195.0 over 100 consecutive trials
 
 # Dueling DQN
 <p align="center">
-  <img width="950" height="500" src="https://user-images.githubusercontent.com/79323290/109340340-cc9d8180-7860-11eb-9011-1ea05ef7fc75.png">
+  <img width="804" height="415" src="https://user-images.githubusercontent.com/79323290/109340340-cc9d8180-7860-11eb-9011-1ea05ef7fc75.png">
 </p>
 
 <table>
@@ -134,7 +134,7 @@ Average reward of 195.0 over 100 consecutive trials
 
 # Dueling Double DQN (D3QN)
 <p align="center">
-  <img width="950" height="500" src="https://user-images.githubusercontent.com/79323290/109341984-1e470b80-7863-11eb-9c5b-33a967d6bdd9.png">
+  <img width="804" height="415" src="https://user-images.githubusercontent.com/79323290/109341984-1e470b80-7863-11eb-9c5b-33a967d6bdd9.png">
 </p>
 
 <table>
