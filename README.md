@@ -1,5 +1,7 @@
 # OpenAI CartPole-v0 DeepRL-based solutions
-Using Deep Q-Network (DQN), Dueling DQN, and Dueling Double DQN (D3QN)
+Using Deep Q-Network (DQN), Dueling DQN, and Dueling Double DQN (D3QN)  
+
+Investigation under the development of the master thesis "DeepRL-based Motion Planning for Indoor Mobile Robot Navigation" @ Institute of Systems and Robotics - University of Coimbra (ISR-UC) 
 
 # Software/Requirements
 Module | Software/Hardware
