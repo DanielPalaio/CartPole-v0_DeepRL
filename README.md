@@ -38,7 +38,7 @@ Loading the saved model in 'tf' is the recommended option. After finishing the t
 **Rewards:**<br />
 Scalar value (1) for every step taken
 
-**Episode termination:**<br />  
+**Episode termination:**<br />
 12° < Pole angle (State 2) < -12°  
 2.4 < Cart position (State 0) < -2.4  
 Episode length > 200  
