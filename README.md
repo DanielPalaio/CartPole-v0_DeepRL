@@ -54,7 +54,7 @@ Average reward of 195.0 over 100 consecutive trials
 # Deep Q-Network (DQN)
 <p align="center">
   <img width="300" height="150" src="https://user-images.githubusercontent.com/79323290/115234204-a8e41280-a110-11eb-8cf1-12f0a7c62ae7.png">
-</p>
+</p> 
 
 <table>
 <tr><th> Train </th><th> Test </th></tr>
@@ -95,9 +95,6 @@ Average reward of 195.0 over 100 consecutive trials
 > **Network model used for testing:** 'saved_networks/dqn_model10' ('tf' model, also available in .h5)  
 
 # Dueling DQN
-<p align="center">
-  <img width="804" height="415" src="https://user-images.githubusercontent.com/79323290/109340340-cc9d8180-7860-11eb-9011-1ea05ef7fc75.png">
-</p>
 
 <table>
 <tr><th> Train </th><th> Test </th></tr>
@@ -138,9 +135,6 @@ Average reward of 195.0 over 100 consecutive trials
 > **Network model used for testing:** 'saved_networks/duelingdqn_model20' ('tf' model, also available in .h5)  
 
 # Dueling Double DQN (D3QN)
-<p align="center">
-  <img width="804" height="415" src="https://user-images.githubusercontent.com/79323290/109341984-1e470b80-7863-11eb-9c5b-33a967d6bdd9.png">
-</p>
 
 <table>
 <tr><th> Train </th><th> Test </th></tr>
