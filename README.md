@@ -53,7 +53,7 @@ Average reward of 195.0 over 100 consecutive trials
 
 # Deep Q-Network (DQN)
 <p align="center">
-  <img width="200" height="100" src="https://user-images.githubusercontent.com/79323290/115234204-a8e41280-a110-11eb-8cf1-12f0a7c62ae7.png">
+  <img width="300" height="150" src="https://user-images.githubusercontent.com/79323290/115234204-a8e41280-a110-11eb-8cf1-12f0a7c62ae7.png">
 </p>
 
 <table>
