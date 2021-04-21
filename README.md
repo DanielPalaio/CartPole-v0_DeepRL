@@ -33,7 +33,7 @@ Loading the saved model in 'tf' is the recommended option. After finishing the t
 0 - Cart position  
 1 - Cart velocity  
 2 - Pole angle  
-3 - Pole velocity at tip
+3 - Pole velocity (at top)
 
 **Rewards:**<br />
 Scalar value (1) for every step taken
