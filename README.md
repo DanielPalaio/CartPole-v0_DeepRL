@@ -30,10 +30,10 @@ Loading the saved model in 'tf' is the recommended option. After finishing the t
 1 - Push cart to the right
 
 **States:**<br />
-0 - Cart position  
-1 - Cart velocity  
-2 - Pole angle  
-3 - Pole velocity (at top)
+0 - Cart position           [-2.4, 2.4]  
+1 - Cart velocity           [-inf, inf]  
+2 - Pole angle              [-41.8°, 41.8°]  
+3 - Pole velocity (at top)  [-inf, inf]  
 
 **Rewards:**<br />
 Scalar value (1) for every step taken
