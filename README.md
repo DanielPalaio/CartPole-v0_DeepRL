@@ -7,9 +7,8 @@ Module | Software/Hardware
 ------------- | -------------
 Python IDE | Pycharm
 Deep Learning library | Tensorflow + Keras
-GPU | GeForce MX 250
+GPU | GeForce GTX 1060
 Interpreter | Python 3.8
-Python Environment | Anaconda
 Packages | requirements.txt
 
 **To setup Pycharm + Anaconda + GPU, consult the setup file [here](setup.txt)**.  
