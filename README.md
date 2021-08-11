@@ -59,8 +59,8 @@ Average reward of 195.0 over 100 consecutive trials
 | Epsilon | 1.0 |
 | Batch size | 64 |
 | TargetNet update rate (steps) | 100 |
-| Actions (CartPole-v0 env) | 2 |
-| States (CartPole-v0 env) | 4 |
+| Actions | 2 |
+| States | 4 |
 
 </td><td>
 
@@ -68,8 +68,8 @@ Average reward of 195.0 over 100 consecutive trials
 |--|--|
 | Number of episodes | 100 |
 | Epsilon | 0.01 |
-| Actions (CartPole-v0 env) | 2 |
-| States (CartPole-v0 env) | 4 |
+| Actions | 2 |
+| States | 4 |
 
 </td></tr> </table>
 
@@ -99,8 +99,8 @@ Average reward of 195.0 over 100 consecutive trials
 | Epsilon | 1.0 |
 | Batch size | 64 |
 | TargetNet update rate (steps) | 120 |
-| Actions (CartPole-v0 env) | 2 |
-| States (CartPole-v0 env) | 4 |
+| Actions | 2 |
+| States | 4 |
 
 </td><td>
 
@@ -108,8 +108,8 @@ Average reward of 195.0 over 100 consecutive trials
 |--|--|
 | Number of episodes | 100 |
 | Epsilon | 0.01 |
-| Actions (CartPole-v0 env) | 2 |
-| States (CartPole-v0 env) | 4 |
+| Actions | 2 |
+| States | 4 |
 
 </td></tr> </table>
 
@@ -139,8 +139,8 @@ Average reward of 195.0 over 100 consecutive trials
 | Epsilon | 1.0 |
 | Batch size | 64 |
 | TargetNet update rate (steps) | 120 |
-| Actions (CartPole-v0 env) | 2 |
-| States (CartPole-v0 env) | 4 |
+| Actions | 2 |
+| States | 4 |
 
 </td><td>
 
@@ -148,8 +148,8 @@ Average reward of 195.0 over 100 consecutive trials
 |--|--|
 | Number of episodes | 100 |
 | Epsilon | 0.01 |
-| Actions (CartPole-v0 env) | 2 |
-| States (CartPole-v0 env) | 4 |
+| Actions | 2 |
+| States | 4 |
 
 </td></tr> </table>
 
